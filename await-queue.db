@@ -1,0 +1,8 @@
+{"worker":"WORKER_C","data":{"id":"pHKyKGLDgG","worker":"WORKER_C"},"option":{"jobId":"WORKER_C"},"createdAt":1590955587756,"_id":"6Oq3ozbLpCnZlEVG"}
+{"worker":"WORKER_C","data":{"id":"u5t8J4uD_","worker":"WORKER_C"},"option":{"jobId":"WORKER_C"},"createdAt":1590955588405,"_id":"UhHDoeRhAEczIGVP"}
+{"worker":"WORKER_B","data":{"id":"B53bYFjyVg","worker":"WORKER_B"},"option":{"jobId":"WORKER_B"},"createdAt":1590955588710,"_id":"hRGa6HQqLDQhkUbS"}
+{"worker":"WORKER_B","data":{"id":"7tQk1H1Vz3","worker":"WORKER_B"},"option":{"jobId":"WORKER_B"},"createdAt":1590955588049,"_id":"nqLHm1BSOpG6qIvC"}
+{"$$deleted":true,"_id":"6Oq3ozbLpCnZlEVG"}
+{"$$deleted":true,"_id":"UhHDoeRhAEczIGVP"}
+{"$$deleted":true,"_id":"nqLHm1BSOpG6qIvC"}
+{"$$deleted":true,"_id":"hRGa6HQqLDQhkUbS"}
